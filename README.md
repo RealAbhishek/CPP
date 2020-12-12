@@ -6,6 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/akshitagit/CPP)
 ![Stars](https://img.shields.io/github/stars/akshitagit/CPP)
 
+# REPOSITORY MAINTAINER : ![AKSHITA GUPTA](https://github.com/akshitagupta15june) 
 
 ## Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
 
@@ -35,7 +36,10 @@ If the reviewers ask for changes, repeat steps 5 and 6 to add more commits to yo
 
 The implementations/codes which are added/merged in CPP-:
 
+# WE ALL HAVE MADE THIS REPOSITORY TO TREND IN GITHUB REPOSITORIES
 
+
+<img src="https://github.com/akshitagit/CPP/blob/master/trend.jpeg" width="230px">
 
 
 
